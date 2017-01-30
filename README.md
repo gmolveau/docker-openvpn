@@ -1,6 +1,6 @@
 # DOCKER OPENVPN ARM AND X86
 ***
-# OpenVPN for Docker on ARM (RaspberryPi)
+# ARM (RaspberryPi)
 #### Upstream Links
 
 * Docker Registry @ [giggio/openvpn-arm](https://hub.docker.com/r/giggio/openvpn-arm/)
@@ -48,7 +48,7 @@
 
 ***
 
-# OpenVPN for Docker
+# x86
 #### Upstream Links
 
 * Docker Registry @ [kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn/)
